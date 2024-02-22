@@ -1,0 +1,13 @@
+.env
+node_modules
+logs
+snet-sdk
+### macOS
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+### JetBrains
+.idea/
+.vscode/
