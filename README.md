@@ -1,4 +1,4 @@
-# snet-sdk Node.js Boilerplate
+# SingularityNET(Node.js) Boilerplate
 
 ## Setup
 
